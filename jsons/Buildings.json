@@ -25,4 +25,17 @@
 		"requiredBuildingInAllCities": "Temple",
 		"requiredTech": "Masonry"
 	}
+
+	{
+		"name": "Amethyst Geode",
+		"uniqueTo": "Geodes",
+		"cost": 480,
+		"happiness": 0,
+		"culture": 0,
+		"science": 7,
+		"maintenance": 96,
+		"isNationalWonder": false,
+		"requiredTech": "Calendar"
+	},
+	
 ]
