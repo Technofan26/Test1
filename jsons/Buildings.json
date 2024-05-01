@@ -12,4 +12,17 @@
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
+
+	{
+		"name": "Amethyst Temple",
+		"uniqueTo": "Geodes",
+		"cost": 480,
+		"happiness": 4,
+		"culture": 15,
+		"science": 7,
+		"maintenance": 96,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Temple",
+		"requiredTech": "Masonry"
+	}
 ]
