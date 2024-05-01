@@ -8,9 +8,8 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Agriculture",
-		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Mining",
+		"promotions": ["Logistics","accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
