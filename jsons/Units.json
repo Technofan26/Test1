@@ -23,4 +23,16 @@
 		"requiredTech": "The Wheel",
 		"attackSound": "phasers"
 	}
+
+	{
+		"name": "Wooden Plane",
+		"unitType": "Ranged",
+		"movement": 6,
+		"strength": 5,
+		"rangedStrength": 25,
+		"range": 5,
+		"cost": 100,
+		"requiredTech": "Engineering",
+		"attackSound": "phasers"
+	}
 ]
