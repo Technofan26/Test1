@@ -9,7 +9,6 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Mining",
-		"promotions": ["Logistics","accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
