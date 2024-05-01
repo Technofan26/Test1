@@ -2,7 +2,7 @@
 	{
 		"name": "Geode",
 		"unitType": "Ranged",
-		"uniqueTo": "Geode",
+		"uniqueTo": "Geodes",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
