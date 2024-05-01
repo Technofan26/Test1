@@ -3,7 +3,6 @@
 		"name": "Geode",
 		"unitType": "Ranged",
 		"uniqueTo": "Geode",
-		"replaces": "Scout",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
