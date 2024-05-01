@@ -1,14 +1,26 @@
 [
 	{
 		"name": "Geode",
-		"unitType": "Ranged",
+		"unitType": "Melee",
 		"uniqueTo": "Geodes",
 		"movement": 2,
-		"strength": 90,
+		"strength": 9,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
+		"cost": 100,
 		"requiredTech": "Mining",
+		"attackSound": "phasers"
+	}
+
+	{
+		"name": "Balista",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 20,
+		"range": 5,
+		"cost": 100,
+		"requiredTech": "The wheel",
 		"attackSound": "phasers"
 	}
 ]
